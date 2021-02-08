@@ -1,3 +1,4 @@
+# list-of-tasks-java
 List of tasks is a application developed with Java language. This application is divided into menus with the functionality to view, mark and edit tasks.
 This work was created using only one class in the main method and mainly was to learn to program and learn a fundamentals of the Java language.
 
@@ -27,5 +28,10 @@ Application Features:
      - Delete done tasks
      - Edit text
      - Remove / add date
+     
+# How to test
+- Clone this repository
+- Open this project in your Eclipse IDE;
+- Run it
 
 The project was created by Alexandre Raposo and was developed in portuguese.
