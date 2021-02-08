@@ -1,6 +1,5 @@
 # list-of-tasks-java
-List of tasks is a application developed with Java language. This application is divided into menus with the functionality to view, mark and edit tasks.
-This work was created using only one class in the main method and mainly was to learn to program and learn a fundamentals of the Java language.
+This work was created to improve my knowledge of the Java language and apply the mainly fundamentals of language in the functionalities developed of the application. The application is a task list, where it is possible view, mark and edit tasks. The project was developed using only one class and the main method.
 
 Main Objectives:
 - Control structures
