@@ -9,21 +9,22 @@ Main Objectives:
 
 Application Features:
 1. View Menu
-     - View all
-     - View "d" day
-     - View until "d"
-     - View to do
-     - View made
+     - View all tasks
+     - View tasks on "d" day
+     - View tasks until "d" day
+     - View tasks to do
+     - View done tasks
+     - View tasks by word "p"
 2. Mark Menu
-     - Mark as done by number
-     - Mark as done by text
-     - Deselect last made
-     - Mark all on "d" day
+     - Mark task as done by number
+     - Mark task as done by text
+     - Deselect last task done
+     - mark all tasks on "d" day
 3. Edit Menu
      - Add task
      - Add task in position "n"
      - Delete task in position "n"
-     - Delete made
+     - Delete done tasks
      - Edit text
      - Remove / add date
 
